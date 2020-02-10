@@ -27,7 +27,7 @@ In this section, explain how you would run the program and what files need to be
   <li>Where did you get the files?</li>
   <li>What is in the data files?</li>
   <li>Datafile considerations</li>
-  <li>URL links to files -- example: [Good News Network](https://www.goodnewsnetwork.org/)</li>
+  <li>URL links to files -- example: <a href="https://www.goodnewsnetwork.org">Good News</a></li>
 </ul>
 
 <h1>Additional Documentation</h1>
