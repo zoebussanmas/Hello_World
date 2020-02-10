@@ -3,12 +3,12 @@ Hello World
 
 <h1>Table of Contents</h1>
 <ul>
-  + Project Title
-  + Description
-  + How to Run Program
-  + Files Used
-  + Additional Documentation
-  + Versioning
+  <li>Project Title</li>
+  <li>Description</li>
+  <li>How to Run Program</li>
+  <li>Files Used</li>
+  <li>Additional Documentation</li>
+  <li>Versioning</li>
 </ul>
 
 <h1>Project Title</h1>
@@ -22,12 +22,12 @@ In this section, explain how you would run the program and what files need to be
 
 <h1>Files Used</h1>
 <ul>
-  + Did you use any files?
-  + List filenames
-  + Where did you get the files?
-  + What is in the data files?
-  + Datafile considerations
-  + URL links to files -- [example](https://emojiisland.com/products/slightly-smiling-face-emoji-icon)
+  <li>Did you use any files?</li>
+  <li>List filenames</li>
+  <li>Where did you get the files?</li>
+  <li>What is in the data files?</li>
+  <li>Datafile considerations</li>
+  <li>URL links to files -- [example](https://emojiisland.com/products/slightly-smiling-face-emoji-icon)</li>
 </ul>
 
 <h1>Additional Documentation</h1>
